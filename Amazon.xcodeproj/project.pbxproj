@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D8C148B7204590E8005ECF2A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D8C148B6204590E8005ECF2A /* AppDelegate.m */; };
-		D8C148BA204590E8005ECF2A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8C148B9204590E8005ECF2A /* ViewController.m */; };
-		D8C148BD204590E8005ECF2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8C148BB204590E8005ECF2A /* Main.storyboard */; };
-		D8C148C0204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D8C148BE204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodeld */; };
-		D8C148C2204590E8005ECF2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8C148C1204590E8005ECF2A /* Assets.xcassets */; };
-		D8C148C5204590E8005ECF2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8C148C3204590E8005ECF2A /* LaunchScreen.storyboard */; };
-		D8C148C8204590E8005ECF2A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D8C148C7204590E8005ECF2A /* main.m */; };
+		D8BA72D5203B3AC600407EFD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D8BA72D4203B3AC600407EFD /* AppDelegate.m */; };
+		D8BA72DB203B3AC600407EFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BA72D9203B3AC600407EFD /* Main.storyboard */; };
+		D8BA72DE203B3AC600407EFD /* Amazon.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D8BA72DC203B3AC600407EFD /* Amazon.xcdatamodeld */; };
+		D8BA72E0203B3AC600407EFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8BA72DF203B3AC600407EFD /* Assets.xcassets */; };
+		D8BA72E3203B3AC600407EFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BA72E1203B3AC600407EFD /* LaunchScreen.storyboard */; };
+		D8BA72E6203B3AC600407EFD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D8BA72E5203B3AC600407EFD /* main.m */; };
+		D8EDAF1E20459317002AC498 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8EDAF1D20459317002AC498 /* MyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D8C148B2204590E8005ECF2A /* Auto Layout Storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout Storyboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D8C148B5204590E8005ECF2A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D8C148B6204590E8005ECF2A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D8C148B8204590E8005ECF2A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D8C148B9204590E8005ECF2A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		D8C148BC204590E8005ECF2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D8C148BF204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Auto_Layout_Storyboard.xcdatamodel; sourceTree = "<group>"; };
-		D8C148C1204590E8005ECF2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D8C148C4204590E8005ECF2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D8C148C6204590E8005ECF2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D8C148C7204590E8005ECF2A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D8BA72D0203B3AC600407EFD /* Amazon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Amazon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8BA72D3203B3AC600407EFD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D8BA72D4203B3AC600407EFD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D8BA72DA203B3AC600407EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D8BA72DD203B3AC600407EFD /* Amazon.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Amazon.xcdatamodel; sourceTree = "<group>"; };
+		D8BA72DF203B3AC600407EFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D8BA72E2203B3AC600407EFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D8BA72E4203B3AC600407EFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8BA72E5203B3AC600407EFD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D8EDAF1C20459317002AC498 /* MyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		D8EDAF1D20459317002AC498 /* MyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D8C148AF204590E8005ECF2A /* Frameworks */ = {
+		D8BA72CD203B3AC600407EFD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,75 +41,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D8C148A9204590E8005ECF2A = {
+		D8BA72C7203B3AC600407EFD = {
 			isa = PBXGroup;
 			children = (
-				D8C148B4204590E8005ECF2A /* Auto Layout Storyboard */,
-				D8C148B3204590E8005ECF2A /* Products */,
+				D8BA72D2203B3AC600407EFD /* Amazon */,
+				D8BA72D1203B3AC600407EFD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D8C148B3204590E8005ECF2A /* Products */ = {
+		D8BA72D1203B3AC600407EFD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D8C148B2204590E8005ECF2A /* Auto Layout Storyboard.app */,
+				D8BA72D0203B3AC600407EFD /* Amazon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D8C148B4204590E8005ECF2A /* Auto Layout Storyboard */ = {
+		D8BA72D2203B3AC600407EFD /* Amazon */ = {
 			isa = PBXGroup;
 			children = (
-				D8C148B5204590E8005ECF2A /* AppDelegate.h */,
-				D8C148B6204590E8005ECF2A /* AppDelegate.m */,
-				D8C148B8204590E8005ECF2A /* ViewController.h */,
-				D8C148B9204590E8005ECF2A /* ViewController.m */,
-				D8C148BB204590E8005ECF2A /* Main.storyboard */,
-				D8C148C1204590E8005ECF2A /* Assets.xcassets */,
-				D8C148C3204590E8005ECF2A /* LaunchScreen.storyboard */,
-				D8C148C6204590E8005ECF2A /* Info.plist */,
-				D8C148C7204590E8005ECF2A /* main.m */,
-				D8C148BE204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodeld */,
+				D8EDAF1C20459317002AC498 /* MyViewController.h */,
+				D8EDAF1D20459317002AC498 /* MyViewController.m */,
+				D8BA72D3203B3AC600407EFD /* AppDelegate.h */,
+				D8BA72D4203B3AC600407EFD /* AppDelegate.m */,
+				D8BA72D9203B3AC600407EFD /* Main.storyboard */,
+				D8BA72DF203B3AC600407EFD /* Assets.xcassets */,
+				D8BA72E1203B3AC600407EFD /* LaunchScreen.storyboard */,
+				D8BA72E4203B3AC600407EFD /* Info.plist */,
+				D8BA72E5203B3AC600407EFD /* main.m */,
+				D8BA72DC203B3AC600407EFD /* Amazon.xcdatamodeld */,
 			);
-			path = "Auto Layout Storyboard";
+			path = Amazon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D8C148B1204590E8005ECF2A /* Auto Layout Storyboard */ = {
+		D8BA72CF203B3AC600407EFD /* Amazon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D8C148CB204590E8005ECF2A /* Build configuration list for PBXNativeTarget "Auto Layout Storyboard" */;
+			buildConfigurationList = D8BA72E9203B3AC600407EFD /* Build configuration list for PBXNativeTarget "Amazon" */;
 			buildPhases = (
-				D8C148AE204590E8005ECF2A /* Sources */,
-				D8C148AF204590E8005ECF2A /* Frameworks */,
-				D8C148B0204590E8005ECF2A /* Resources */,
+				D8BA72CC203B3AC600407EFD /* Sources */,
+				D8BA72CD203B3AC600407EFD /* Frameworks */,
+				D8BA72CE203B3AC600407EFD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Auto Layout Storyboard";
-			productName = "Auto Layout Storyboard";
-			productReference = D8C148B2204590E8005ECF2A /* Auto Layout Storyboard.app */;
+			name = Amazon;
+			productName = Amazon;
+			productReference = D8BA72D0203B3AC600407EFD /* Amazon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D8C148AA204590E8005ECF2A /* Project object */ = {
+		D8BA72C8203B3AC600407EFD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Nathan Hsu";
 				TargetAttributes = {
-					D8C148B1204590E8005ECF2A = {
+					D8BA72CF203B3AC600407EFD = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = D8C148AD204590E8005ECF2A /* Build configuration list for PBXProject "Auto Layout Storyboard" */;
+			buildConfigurationList = D8BA72CB203B3AC600407EFD /* Build configuration list for PBXProject "Amazon" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,56 +117,56 @@
 				en,
 				Base,
 			);
-			mainGroup = D8C148A9204590E8005ECF2A;
-			productRefGroup = D8C148B3204590E8005ECF2A /* Products */;
+			mainGroup = D8BA72C7203B3AC600407EFD;
+			productRefGroup = D8BA72D1203B3AC600407EFD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D8C148B1204590E8005ECF2A /* Auto Layout Storyboard */,
+				D8BA72CF203B3AC600407EFD /* Amazon */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D8C148B0204590E8005ECF2A /* Resources */ = {
+		D8BA72CE203B3AC600407EFD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8C148C5204590E8005ECF2A /* LaunchScreen.storyboard in Resources */,
-				D8C148C2204590E8005ECF2A /* Assets.xcassets in Resources */,
-				D8C148BD204590E8005ECF2A /* Main.storyboard in Resources */,
+				D8BA72E3203B3AC600407EFD /* LaunchScreen.storyboard in Resources */,
+				D8BA72E0203B3AC600407EFD /* Assets.xcassets in Resources */,
+				D8BA72DB203B3AC600407EFD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D8C148AE204590E8005ECF2A /* Sources */ = {
+		D8BA72CC203B3AC600407EFD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8C148BA204590E8005ECF2A /* ViewController.m in Sources */,
-				D8C148B7204590E8005ECF2A /* AppDelegate.m in Sources */,
-				D8C148C8204590E8005ECF2A /* main.m in Sources */,
-				D8C148C0204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodeld in Sources */,
+				D8BA72DE203B3AC600407EFD /* Amazon.xcdatamodeld in Sources */,
+				D8BA72E6203B3AC600407EFD /* main.m in Sources */,
+				D8EDAF1E20459317002AC498 /* MyViewController.m in Sources */,
+				D8BA72D5203B3AC600407EFD /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D8C148BB204590E8005ECF2A /* Main.storyboard */ = {
+		D8BA72D9203B3AC600407EFD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D8C148BC204590E8005ECF2A /* Base */,
+				D8BA72DA203B3AC600407EFD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D8C148C3204590E8005ECF2A /* LaunchScreen.storyboard */ = {
+		D8BA72E1203B3AC600407EFD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D8C148C4204590E8005ECF2A /* Base */,
+				D8BA72E2203B3AC600407EFD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -174,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D8C148C9204590E8005ECF2A /* Debug */ = {
+		D8BA72E7203B3AC600407EFD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -229,7 +229,7 @@
 			};
 			name = Debug;
 		};
-		D8C148CA204590E8005ECF2A /* Release */ = {
+		D8BA72E8203B3AC600407EFD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,29 +278,29 @@
 			};
 			name = Release;
 		};
-		D8C148CC204590E8005ECF2A /* Debug */ = {
+		D8BA72EA203B3AC600407EFD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 34PVCRW63B;
-				INFOPLIST_FILE = "Auto Layout Storyboard/Info.plist";
+				INFOPLIST_FILE = Amazon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Hsunami.Auto-Layout-Storyboard";
+				PRODUCT_BUNDLE_IDENTIFIER = Hsunami.Amazon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D8C148CD204590E8005ECF2A /* Release */ = {
+		D8BA72EB203B3AC600407EFD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 34PVCRW63B;
-				INFOPLIST_FILE = "Auto Layout Storyboard/Info.plist";
+				INFOPLIST_FILE = Amazon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Hsunami.Auto-Layout-Storyboard";
+				PRODUCT_BUNDLE_IDENTIFIER = Hsunami.Amazon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -309,20 +309,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D8C148AD204590E8005ECF2A /* Build configuration list for PBXProject "Auto Layout Storyboard" */ = {
+		D8BA72CB203B3AC600407EFD /* Build configuration list for PBXProject "Amazon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8C148C9204590E8005ECF2A /* Debug */,
-				D8C148CA204590E8005ECF2A /* Release */,
+				D8BA72E7203B3AC600407EFD /* Debug */,
+				D8BA72E8203B3AC600407EFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D8C148CB204590E8005ECF2A /* Build configuration list for PBXNativeTarget "Auto Layout Storyboard" */ = {
+		D8BA72E9203B3AC600407EFD /* Build configuration list for PBXNativeTarget "Amazon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D8C148CC204590E8005ECF2A /* Debug */,
-				D8C148CD204590E8005ECF2A /* Release */,
+				D8BA72EA203B3AC600407EFD /* Debug */,
+				D8BA72EB203B3AC600407EFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -330,17 +330,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		D8C148BE204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodeld */ = {
+		D8BA72DC203B3AC600407EFD /* Amazon.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				D8C148BF204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodel */,
+				D8BA72DD203B3AC600407EFD /* Amazon.xcdatamodel */,
 			);
-			currentVersion = D8C148BF204590E8005ECF2A /* Auto_Layout_Storyboard.xcdatamodel */;
-			path = Auto_Layout_Storyboard.xcdatamodeld;
+			currentVersion = D8BA72DD203B3AC600407EFD /* Amazon.xcdatamodel */;
+			path = Amazon.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = D8C148AA204590E8005ECF2A /* Project object */;
+	rootObject = D8BA72C8203B3AC600407EFD /* Project object */;
 }

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  Auto Layout Storyboard
+//  Amazon
 //
-//  Created by Nathan Hsu on 2018-02-27.
+//  Created by Nathan Hsu on 2018-02-19.
 //  Copyright © 2018 Nathan Hsu. All rights reserved.
 //
 
@@ -58,7 +58,7 @@
     // The persistent container for the application. This implementation creates and returns a container, having loaded the store for the application to it.
     @synchronized (self) {
         if (_persistentContainer == nil) {
-            _persistentContainer = [[NSPersistentContainer alloc] initWithName:@"Auto_Layout_Storyboard"];
+            _persistentContainer = [[NSPersistentContainer alloc] initWithName:@"Amazon"];
             [_persistentContainer loadPersistentStoresWithCompletionHandler:^(NSPersistentStoreDescription *storeDescription, NSError *error) {
                 if (error != nil) {
                     // Replace this implementation with code to handle the error appropriately.
